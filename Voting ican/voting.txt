@@ -1,0 +1,379 @@
+Uninstaller	27,992	63%
+build\built-jar.properties	81	6%
+build\classes\votingmgmtsystem\3.jpg	433,036	3%
+build\classes\votingmgmtsystem\3d-paradise-island-wallpaper - Copy.jpg	76,744	19%
+build\classes\votingmgmtsystem\61.jpg	357,687	3%
+build\classes\votingmgmtsystem\9360-200 - Copy.png	3,005	0%
+build\classes\votingmgmtsystem\aboutus$1.class	444	44%
+build\classes\votingmgmtsystem\aboutus$2.class	360	35%
+build\classes\votingmgmtsystem\aboutus.class	3,787	52%
+build\classes\votingmgmtsystem\AdharVarify$1.class	449	45%
+build\classes\votingmgmtsystem\AdharVarify$2.class	367	36%
+build\classes\votingmgmtsystem\AdharVarify.class	5,024	54%
+build\classes\votingmgmtsystem\architectural-81a - Copy.jpg	156,295	1%
+build\classes\votingmgmtsystem\bjp (2).jpg	4,210	3%
+build\classes\votingmgmtsystem\bsp.jpg	6,439	2%
+build\classes\votingmgmtsystem\CandidateGrid$1.class	436	42%
+build\classes\votingmgmtsystem\CandidateGrid$2.class	453	46%
+build\classes\votingmgmtsystem\CandidateGrid$3.class	434	46%
+build\classes\votingmgmtsystem\CandidateGrid$4.class	434	45%
+build\classes\votingmgmtsystem\CandidateGrid$5.class	432	46%
+build\classes\votingmgmtsystem\CandidateGrid$6.class	455	46%
+build\classes\votingmgmtsystem\CandidateGrid$7.class	455	46%
+build\classes\votingmgmtsystem\CandidateGrid$8.class	370	36%
+build\classes\votingmgmtsystem\CandidateGrid.class	7,436	56%
+build\classes\votingmgmtsystem\CandidateRegistration$1.class	433	49%
+build\classes\votingmgmtsystem\CandidateRegistration$10.class	436	49%
+build\classes\votingmgmtsystem\CandidateRegistration$11.class	438	49%
+build\classes\votingmgmtsystem\CandidateRegistration$12.class	440	49%
+build\classes\votingmgmtsystem\CandidateRegistration$13.class	457	49%
+build\classes\votingmgmtsystem\CandidateRegistration$14.class	440	48%
+build\classes\votingmgmtsystem\CandidateRegistration$15.class	458	49%
+build\classes\votingmgmtsystem\CandidateRegistration$16.class	459	49%
+build\classes\votingmgmtsystem\CandidateRegistration$17.class	441	49%
+build\classes\votingmgmtsystem\CandidateRegistration$18.class	439	49%
+build\classes\votingmgmtsystem\CandidateRegistration$19.class	438	49%
+build\classes\votingmgmtsystem\CandidateRegistration$2.class	438	48%
+build\classes\votingmgmtsystem\CandidateRegistration$20.class	437	49%
+build\classes\votingmgmtsystem\CandidateRegistration$21.class	438	49%
+build\classes\votingmgmtsystem\CandidateRegistration$22.class	440	49%
+build\classes\votingmgmtsystem\CandidateRegistration$23.class	379	38%
+build\classes\votingmgmtsystem\CandidateRegistration$3.class	435	49%
+build\classes\votingmgmtsystem\CandidateRegistration$4.class	438	48%
+build\classes\votingmgmtsystem\CandidateRegistration$5.class	438	49%
+build\classes\votingmgmtsystem\CandidateRegistration$6.class	440	48%
+build\classes\votingmgmtsystem\CandidateRegistration$7.class	455	49%
+build\classes\votingmgmtsystem\CandidateRegistration$8.class	437	49%
+build\classes\votingmgmtsystem\CandidateRegistration$9.class	455	49%
+build\classes\votingmgmtsystem\CandidateRegistration.class	12,321	58%
+build\classes\votingmgmtsystem\CandidateUpdate$1.class	433	47%
+build\classes\votingmgmtsystem\CandidateUpdate$10.class	435	47%
+build\classes\votingmgmtsystem\CandidateUpdate$11.class	428	47%
+build\classes\votingmgmtsystem\CandidateUpdate$12.class	432	47%
+build\classes\votingmgmtsystem\CandidateUpdate$13.class	428	47%
+build\classes\votingmgmtsystem\CandidateUpdate$14.class	454	46%
+build\classes\votingmgmtsystem\CandidateUpdate$15.class	456	47%
+build\classes\votingmgmtsystem\CandidateUpdate$16.class	456	47%
+build\classes\votingmgmtsystem\CandidateUpdate$17.class	439	47%
+build\classes\votingmgmtsystem\CandidateUpdate$18.class	371	37%
+build\classes\votingmgmtsystem\CandidateUpdate$2.class	426	47%
+build\classes\votingmgmtsystem\CandidateUpdate$3.class	431	47%
+build\classes\votingmgmtsystem\CandidateUpdate$4.class	425	47%
+build\classes\votingmgmtsystem\CandidateUpdate$5.class	433	47%
+build\classes\votingmgmtsystem\CandidateUpdate$6.class	424	47%
+build\classes\votingmgmtsystem\CandidateUpdate$7.class	452	47%
+build\classes\votingmgmtsystem\CandidateUpdate$8.class	454	47%
+build\classes\votingmgmtsystem\CandidateUpdate$9.class	434	47%
+build\classes\votingmgmtsystem\CandidateUpdate.class	10,883	57%
+build\classes\votingmgmtsystem\Choose$1.class	443	44%
+build\classes\votingmgmtsystem\Choose$2.class	444	44%
+build\classes\votingmgmtsystem\Choose$3.class	362	34%
+build\classes\votingmgmtsystem\Choose.class	3,868	55%
+build\classes\votingmgmtsystem\Counting$1.class	416	46%
+build\classes\votingmgmtsystem\Counting$2.class	448	44%
+build\classes\votingmgmtsystem\Counting$3.class	363	35%
+build\classes\votingmgmtsystem\Counting.class	5,445	54%
+build\classes\votingmgmtsystem\DeleteCandidate$1.class	431	47%
+build\classes\votingmgmtsystem\DeleteCandidate$10.class	434	46%
+build\classes\votingmgmtsystem\DeleteCandidate$11.class	456	47%
+build\classes\votingmgmtsystem\DeleteCandidate$12.class	455	47%
+build\classes\votingmgmtsystem\DeleteCandidate$13.class	456	47%
+build\classes\votingmgmtsystem\DeleteCandidate$14.class	433	47%
+build\classes\votingmgmtsystem\DeleteCandidate$15.class	433	47%
+build\classes\votingmgmtsystem\DeleteCandidate$16.class	435	46%
+build\classes\votingmgmtsystem\DeleteCandidate$17.class	437	47%
+build\classes\votingmgmtsystem\DeleteCandidate$18.class	439	46%
+build\classes\votingmgmtsystem\DeleteCandidate$19.class	438	47%
+build\classes\votingmgmtsystem\DeleteCandidate$2.class	430	47%
+build\classes\votingmgmtsystem\DeleteCandidate$20.class	371	37%
+build\classes\votingmgmtsystem\DeleteCandidate$3.class	429	47%
+build\classes\votingmgmtsystem\DeleteCandidate$4.class	431	47%
+build\classes\votingmgmtsystem\DeleteCandidate$5.class	431	47%
+build\classes\votingmgmtsystem\DeleteCandidate$6.class	431	47%
+build\classes\votingmgmtsystem\DeleteCandidate$7.class	431	47%
+build\classes\votingmgmtsystem\DeleteCandidate$8.class	453	47%
+build\classes\votingmgmtsystem\DeleteCandidate$9.class	431	47%
+build\classes\votingmgmtsystem\DeleteCandidate.class	11,195	58%
+build\classes\votingmgmtsystem\DeleteVoter$1.class	419	47%
+build\classes\votingmgmtsystem\DeleteVoter$10.class	428	45%
+build\classes\votingmgmtsystem\DeleteVoter$11.class	452	45%
+build\classes\votingmgmtsystem\DeleteVoter$12.class	451	45%
+build\classes\votingmgmtsystem\DeleteVoter$13.class	451	45%
+build\classes\votingmgmtsystem\DeleteVoter$14.class	429	46%
+build\classes\votingmgmtsystem\DeleteVoter$15.class	428	46%
+build\classes\votingmgmtsystem\DeleteVoter$16.class	429	45%
+build\classes\votingmgmtsystem\DeleteVoter$17.class	430	46%
+build\classes\votingmgmtsystem\DeleteVoter$18.class	434	44%
+build\classes\votingmgmtsystem\DeleteVoter$19.class	431	46%
+build\classes\votingmgmtsystem\DeleteVoter$2.class	417	47%
+build\classes\votingmgmtsystem\DeleteVoter$20.class	366	36%
+build\classes\votingmgmtsystem\DeleteVoter$3.class	428	45%
+build\classes\votingmgmtsystem\DeleteVoter$4.class	418	47%
+build\classes\votingmgmtsystem\DeleteVoter$5.class	424	46%
+build\classes\votingmgmtsystem\DeleteVoter$6.class	419	47%
+build\classes\votingmgmtsystem\DeleteVoter$7.class	426	45%
+build\classes\votingmgmtsystem\DeleteVoter$8.class	450	45%
+build\classes\votingmgmtsystem\DeleteVoter$9.class	419	47%
+build\classes\votingmgmtsystem\DeleteVoter.class	10,642	58%
+build\classes\votingmgmtsystem\download (1).jpg	3,602	4%
+build\classes\votingmgmtsystem\download.jpg	4,457	3%
+build\classes\votingmgmtsystem\exit.png	1,151	-1%
+build\classes\votingmgmtsystem\Forget$1.class	446	43%
+build\classes\votingmgmtsystem\Forget$2.class	447	43%
+build\classes\votingmgmtsystem\Forget$3.class	421	44%
+build\classes\votingmgmtsystem\Forget$4.class	361	34%
+build\classes\votingmgmtsystem\Forget.class	5,905	53%
+build\classes\votingmgmtsystem\HistoryGrid$1.class	435	41%
+build\classes\votingmgmtsystem\HistoryGrid$2.class	451	45%
+build\classes\votingmgmtsystem\HistoryGrid$3.class	430	46%
+build\classes\votingmgmtsystem\HistoryGrid$4.class	434	44%
+build\classes\votingmgmtsystem\HistoryGrid$5.class	430	46%
+build\classes\votingmgmtsystem\HistoryGrid$6.class	454	45%
+build\classes\votingmgmtsystem\HistoryGrid$7.class	453	45%
+build\classes\votingmgmtsystem\HistoryGrid$8.class	369	35%
+build\classes\votingmgmtsystem\HistoryGrid.class	7,554	56%
+build\classes\votingmgmtsystem\Login$1.class	445	43%
+build\classes\votingmgmtsystem\Login$2.class	446	43%
+build\classes\votingmgmtsystem\Login$3.class	420	44%
+build\classes\votingmgmtsystem\Login$4.class	428	43%
+build\classes\votingmgmtsystem\Login$5.class	363	33%
+build\classes\votingmgmtsystem\Login.class	6,762	54%
+build\classes\votingmgmtsystem\logout.png	1,151	-1%
+build\classes\votingmgmtsystem\MainForm$1.class	420	45%
+build\classes\votingmgmtsystem\MainForm$10.class	446	44%
+build\classes\votingmgmtsystem\MainForm$11.class	448	44%
+build\classes\votingmgmtsystem\MainForm$12.class	448	44%
+build\classes\votingmgmtsystem\MainForm$13.class	447	44%
+build\classes\votingmgmtsystem\MainForm$14.class	449	44%
+build\classes\votingmgmtsystem\MainForm$15.class	449	44%
+build\classes\votingmgmtsystem\MainForm$16.class	449	44%
+build\classes\votingmgmtsystem\MainForm$17.class	449	44%
+build\classes\votingmgmtsystem\MainForm$18.class	449	44%
+build\classes\votingmgmtsystem\MainForm$19.class	448	44%
+build\classes\votingmgmtsystem\MainForm$2.class	446	44%
+build\classes\votingmgmtsystem\MainForm$20.class	364	35%
+build\classes\votingmgmtsystem\MainForm$3.class	446	44%
+build\classes\votingmgmtsystem\MainForm$4.class	448	44%
+build\classes\votingmgmtsystem\MainForm$5.class	449	44%
+build\classes\votingmgmtsystem\MainForm$6.class	450	44%
+build\classes\votingmgmtsystem\MainForm$7.class	449	44%
+build\classes\votingmgmtsystem\MainForm$8.class	449	44%
+build\classes\votingmgmtsystem\MainForm$9.class	446	44%
+build\classes\votingmgmtsystem\MainForm.class	8,005	61%
+build\classes\votingmgmtsystem\not vote.png	10,783	0%
+build\classes\votingmgmtsystem\Password$1.class	449	44%
+build\classes\votingmgmtsystem\Password$2.class	449	44%
+build\classes\votingmgmtsystem\Password$3.class	363	35%
+build\classes\votingmgmtsystem\Password.class	5,842	53%
+build\classes\votingmgmtsystem\Setting$1.class	446	44%
+build\classes\votingmgmtsystem\Setting$2.class	446	44%
+build\classes\votingmgmtsystem\Setting$3.class	421	45%
+build\classes\votingmgmtsystem\Setting$4.class	363	34%
+build\classes\votingmgmtsystem\Setting.class	6,408	54%
+build\classes\votingmgmtsystem\ShowVotes$1.class	432	41%
+build\classes\votingmgmtsystem\ShowVotes$2.class	422	46%
+build\classes\votingmgmtsystem\ShowVotes$3.class	431	44%
+build\classes\votingmgmtsystem\ShowVotes$4.class	446	45%
+build\classes\votingmgmtsystem\ShowVotes$5.class	447	45%
+build\classes\votingmgmtsystem\ShowVotes$6.class	445	45%
+build\classes\votingmgmtsystem\ShowVotes$7.class	423	45%
+build\classes\votingmgmtsystem\ShowVotes$8.class	368	34%
+build\classes\votingmgmtsystem\ShowVotes.class	7,077	55%
+build\classes\votingmgmtsystem\sk.jpg	12,862	36%
+build\classes\votingmgmtsystem\sk2.jpg	7,687	46%
+build\classes\votingmgmtsystem\sp.png	17,073	0%
+build\classes\votingmgmtsystem\tmu3.gif	10,573	1%
+build\classes\votingmgmtsystem\Upload$1.class	1,093	45%
+build\classes\votingmgmtsystem\Upload$2.class	1,569	44%
+build\classes\votingmgmtsystem\Upload.class	2,002	46%
+build\classes\votingmgmtsystem\UploadVoter$1.class	1,101	45%
+build\classes\votingmgmtsystem\UploadVoter$2.class	1,567	45%
+build\classes\votingmgmtsystem\UploadVoter.class	2,005	46%
+build\classes\votingmgmtsystem\VerifyAdhar$1.class	1,408	46%
+build\classes\votingmgmtsystem\VerifyAdhar$2.class	444	43%
+build\classes\votingmgmtsystem\VerifyAdhar$3.class	1,225	50%
+build\classes\votingmgmtsystem\VerifyAdhar.class	2,200	47%
+build\classes\votingmgmtsystem\VoterGrid$1.class	431	41%
+build\classes\votingmgmtsystem\VoterGrid$2.class	445	45%
+build\classes\votingmgmtsystem\VoterGrid$3.class	429	45%
+build\classes\votingmgmtsystem\VoterGrid$4.class	431	44%
+build\classes\votingmgmtsystem\VoterGrid$5.class	427	45%
+build\classes\votingmgmtsystem\VoterGrid$6.class	447	45%
+build\classes\votingmgmtsystem\VoterGrid$7.class	446	45%
+build\classes\votingmgmtsystem\VoterGrid$8.class	365	35%
+build\classes\votingmgmtsystem\VoterGrid.class	7,366	56%
+build\classes\votingmgmtsystem\VoterRegistration$1.class	435	48%
+build\classes\votingmgmtsystem\VoterRegistration$10.class	436	48%
+build\classes\votingmgmtsystem\VoterRegistration$11.class	438	47%
+build\classes\votingmgmtsystem\VoterRegistration$12.class	439	47%
+build\classes\votingmgmtsystem\VoterRegistration$13.class	456	47%
+build\classes\votingmgmtsystem\VoterRegistration$14.class	435	47%
+build\classes\votingmgmtsystem\VoterRegistration$15.class	457	47%
+build\classes\votingmgmtsystem\VoterRegistration$16.class	457	47%
+build\classes\votingmgmtsystem\VoterRegistration$17.class	436	48%
+build\classes\votingmgmtsystem\VoterRegistration$18.class	436	48%
+build\classes\votingmgmtsystem\VoterRegistration$19.class	437	47%
+build\classes\votingmgmtsystem\VoterRegistration$2.class	435	47%
+build\classes\votingmgmtsystem\VoterRegistration$20.class	436	48%
+build\classes\votingmgmtsystem\VoterRegistration$21.class	435	47%
+build\classes\votingmgmtsystem\VoterRegistration$22.class	438	48%
+build\classes\votingmgmtsystem\VoterRegistration$23.class	375	37%
+build\classes\votingmgmtsystem\VoterRegistration$3.class	436	47%
+build\classes\votingmgmtsystem\VoterRegistration$4.class	435	47%
+build\classes\votingmgmtsystem\VoterRegistration$5.class	434	48%
+build\classes\votingmgmtsystem\VoterRegistration$6.class	433	47%
+build\classes\votingmgmtsystem\VoterRegistration$7.class	455	47%
+build\classes\votingmgmtsystem\VoterRegistration$8.class	440	47%
+build\classes\votingmgmtsystem\VoterRegistration$9.class	456	47%
+build\classes\votingmgmtsystem\VoterRegistration.class	12,052	58%
+build\classes\votingmgmtsystem\VoterUpdate$1.class	424	46%
+build\classes\votingmgmtsystem\VoterUpdate$10.class	427	46%
+build\classes\votingmgmtsystem\VoterUpdate$11.class	427	46%
+build\classes\votingmgmtsystem\VoterUpdate$12.class	429	45%
+build\classes\votingmgmtsystem\VoterUpdate$13.class	428	46%
+build\classes\votingmgmtsystem\VoterUpdate$14.class	432	45%
+build\classes\votingmgmtsystem\VoterUpdate$15.class	450	45%
+build\classes\votingmgmtsystem\VoterUpdate$16.class	433	45%
+build\classes\votingmgmtsystem\VoterUpdate$17.class	369	35%
+build\classes\votingmgmtsystem\VoterUpdate$2.class	420	47%
+build\classes\votingmgmtsystem\VoterUpdate$3.class	422	46%
+build\classes\votingmgmtsystem\VoterUpdate$4.class	421	46%
+build\classes\votingmgmtsystem\VoterUpdate$5.class	423	46%
+build\classes\votingmgmtsystem\VoterUpdate$6.class	422	46%
+build\classes\votingmgmtsystem\VoterUpdate$7.class	423	46%
+build\classes\votingmgmtsystem\VoterUpdate$8.class	451	45%
+build\classes\votingmgmtsystem\VoterUpdate$9.class	451	45%
+build\classes\votingmgmtsystem\VoterUpdate.class	10,700	57%
+build\classes\votingmgmtsystem\Voting$1.class	440	44%
+build\classes\votingmgmtsystem\Voting$2.class	444	44%
+build\classes\votingmgmtsystem\Voting$3.class	423	44%
+build\classes\votingmgmtsystem\Voting$4.class	364	34%
+build\classes\votingmgmtsystem\Voting.class	7,410	54%
+build\classes\votingmgmtsystem\VotingMgmtSystem$1.class	448	40%
+build\classes\votingmgmtsystem\VotingMgmtSystem.class	634	38%
+build\classes\votingmgmtsystem\Welcome$1.class	435	36%
+build\classes\votingmgmtsystem\Welcome.class	3,191	52%
+build\classes\votingmgmtsystem\welcome.jpg	87,554	1%
+build.xml	1,236	66%
+DATABASE\VotingMgmtSystem.sql	10,261	79%
+dist\lib\beansbinding-1.2.1.jar	147,289	77%
+dist\lib\mysql-connector-java-5.1.23-bin.jar	794,239	5%
+dist\lib\swing-layout-1.0.4.jar	42,774	64%
+dist\README.TXT	625	54%
+dist\VotingMgmtSystem.jar	1,346,432	27%
+Image\9360-200 - Copy.png	3,005	0%
+Image\Add-icon.png	983	-1%
+Image\bjp (2).jpg	4,210	3%
+Image\bjp.jpg	45,069	2%
+Image\bsp.jpg	6,439	2%
+Image\download (1).jpg	3,602	4%
+Image\download.jpg	4,457	3%
+Image\login.png	131,751	1%
+Image\logout.png	1,151	-1%
+Image\not vote.png	10,783	0%
+Image\sp.png	17,073	0%
+Image\tmu3.gif	10,573	1%
+Image\welcome.jpg	87,554	1%
+manifest.mf	91	-7%
+nbproject\build-impl.xml	8,569	90%
+nbproject\genfiles.properties	262	45%
+nbproject\private\private.properties	109	7%
+nbproject\private\private.xml	242	50%
+nbproject\project.properties	943	64%
+nbproject\project.xml	239	55%
+src\votingmgmtsystem\3.jpg	433,036	3%
+src\votingmgmtsystem\3d-paradise-island-wallpaper - Copy.jpg	76,744	19%
+src\votingmgmtsystem\61.jpg	357,687	3%
+src\votingmgmtsystem\9360-200 - Copy.png	3,005	0%
+src\votingmgmtsystem\aboutus.form	2,204	93%
+src\votingmgmtsystem\aboutus.java	2,401	80%
+src\votingmgmtsystem\AdharVarify.form	1,536	87%
+src\votingmgmtsystem\AdharVarify.java	2,876	78%
+src\votingmgmtsystem\architectural-81a - Copy.jpg	156,295	1%
+src\votingmgmtsystem\bjp (2).jpg	4,210	3%
+src\votingmgmtsystem\bsp.jpg	6,439	2%
+src\votingmgmtsystem\CandidateGrid.form	2,298	90%
+src\votingmgmtsystem\CandidateGrid.java	3,942	83%
+src\votingmgmtsystem\CandidateRegistration.form	3,095	94%
+src\votingmgmtsystem\CandidateRegistration.java	6,327	88%
+src\votingmgmtsystem\CandidateUpdate.form	2,885	93%
+src\votingmgmtsystem\CandidateUpdate.java	5,799	86%
+src\votingmgmtsystem\Choose.form	1,599	88%
+src\votingmgmtsystem\Choose.java	2,414	81%
+src\votingmgmtsystem\Counting.form	1,851	89%
+src\votingmgmtsystem\Counting.java	3,155	80%
+src\votingmgmtsystem\DeleteCandidate.form	2,915	93%
+src\votingmgmtsystem\DeleteCandidate.java	5,814	88%
+src\votingmgmtsystem\DeleteVoter.form	2,748	93%
+src\votingmgmtsystem\DeleteVoter.java	5,588	88%
+src\votingmgmtsystem\download (1).jpg	3,602	4%
+src\votingmgmtsystem\download.jpg	4,457	3%
+src\votingmgmtsystem\exit.png	1,151	-1%
+src\votingmgmtsystem\Forget.form	1,945	90%
+src\votingmgmtsystem\Forget.java	3,423	82%
+src\votingmgmtsystem\HistoryGrid.form	2,322	90%
+src\votingmgmtsystem\HistoryGrid.java	3,974	83%
+src\votingmgmtsystem\Login.form	2,283	91%
+src\votingmgmtsystem\Login.java	3,862	84%
+src\votingmgmtsystem\logout.png	1,151	-1%
+src\votingmgmtsystem\MainForm.form	1,950	92%
+src\votingmgmtsystem\MainForm.java	4,178	85%
+src\votingmgmtsystem\not vote.png	10,783	0%
+src\votingmgmtsystem\Password.form	1,809	90%
+src\votingmgmtsystem\Password.java	3,372	82%
+src\votingmgmtsystem\Setting.form	2,039	90%
+src\votingmgmtsystem\Setting.java	3,668	83%
+src\votingmgmtsystem\ShowVotes.form	2,302	89%
+src\votingmgmtsystem\ShowVotes.java	3,760	83%
+src\votingmgmtsystem\sk.jpg	12,862	36%
+src\votingmgmtsystem\sk2.jpg	7,687	46%
+src\votingmgmtsystem\sp.png	17,073	0%
+src\votingmgmtsystem\tmu3.gif	10,573	1%
+src\votingmgmtsystem\Upload.java	1,747	66%
+src\votingmgmtsystem\UploadVoter.java	1,749	66%
+src\votingmgmtsystem\VerifyAdhar.java	1,622	69%
+src\votingmgmtsystem\VoterGrid.form	2,281	89%
+src\votingmgmtsystem\VoterGrid.java	3,928	82%
+src\votingmgmtsystem\VoterRegistration.form	3,081	93%
+src\votingmgmtsystem\VoterRegistration.java	6,203	88%
+src\votingmgmtsystem\VoterUpdate.form	2,844	93%
+src\votingmgmtsystem\VoterUpdate.java	5,742	86%
+src\votingmgmtsystem\Voting.form	2,347	93%
+src\votingmgmtsystem\Voting.java	3,915	86%
+src\votingmgmtsystem\VotingMgmtSystem.java	485	54%
+src\votingmgmtsystem\Welcome.form	1,478	87%
+src\votingmgmtsystem\Welcome.java	2,018	80%
+src\votingmgmtsystem\welcome.jpg	87,554	1%
+Voting ican\android-icon-144x144.png	26,873	1%
+Voting ican\android-icon-192x192.png	47,045	0%
+Voting ican\android-icon-36x36.png	3,005	4%
+Voting ican\android-icon-48x48.png	4,374	3%
+Voting ican\android-icon-72x72.png	8,186	2%
+Voting ican\android-icon-96x96.png	13,279	1%
+Voting ican\apple-icon-114x114.png	17,874	1%
+Voting ican\apple-icon-120x120.png	19,500	1%
+Voting ican\apple-icon-144x144.png	26,873	1%
+Voting ican\apple-icon-152x152.png	29,722	1%
+Voting ican\apple-icon-180x180.png	40,140	1%
+Voting ican\apple-icon-57x57.png	5,667	2%
+Voting ican\apple-icon-60x60.png	6,145	2%
+Voting ican\apple-icon-72x72.png	8,186	2%
+Voting ican\apple-icon-76x76.png	8,986	1%
+Voting ican\apple-icon-precomposed.png	47,476	1%
+Voting ican\apple-icon.png	47,476	1%
+Voting ican\browserconfig.xml	166	41%
+Voting ican\favicon-16x16.png	1,385	7%
+Voting ican\favicon-32x32.png	2,629	4%
+Voting ican\favicon-96x96.png	13,279	1%
+Voting ican\favicon.ico	849	27%
+Voting ican\manifest.json	190	74%
+Voting ican\ms-icon-144x144.png	26,873	1%
+Voting ican\ms-icon-150x150.png	29,016	1%
+Voting ican\ms-icon-310x310.png	94,860	1%
+Voting ican\ms-icon-70x70.png	7,871	2%
+
+Result :
+    Number of files: 373
+    Total uncompressed size: 8655591 bytes
+    Total compressed size: 6036921 bytes
+    Install program size: 6136031 bytes
